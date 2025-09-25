@@ -211,6 +211,3 @@ e.g. Cloudinary preset name from your cloudinary dashboard settings -> Uploads
 - Vite-JS template
 - MongoDB compass
 - Stripe Dashboard to monitor payments
-
-<br />
-# internship-project
